@@ -47,3 +47,9 @@ In a couple of seconds, your model will be ready. You can import it into any 3D 
 Resize the model to 90x50x3 mm.
 
 3D print! Enjoy!
+
+---
+
+![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+
+### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
